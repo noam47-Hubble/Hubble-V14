@@ -3,4 +3,5 @@ flask-socketio
 flask-sqlalchemy
 simple-websocket
 gunicorn
-psycopg2-binary
+psycopg[binary]
+
